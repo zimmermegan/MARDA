@@ -8,3 +8,8 @@ The project so far is designed to be a medical assistive robot directed primaril
 ##To Do
 - [ ] Generate a bunch of sample sentences to use with the parser - http://nlp.stanford.edu/software/lex-parser.shtml
 - [ ] Explore the [CHEMDNER](http://mldata.org/repository/data/viewslug/chemdner-training/) Training Set, and developer a way to build some sort of decision tree to use for classification and such. 
+
+
+##For CHEMDNER
+- CHEMDNER uses the [BL-Evaluate Library](http://www.biocreative.org/resources/biocreative-ii5/evaluation-library/) as well as [Matplotlib](http://matplotlib.sourceforge.net/users/installing.html)
+- Instructions to install: http://matplotlib.org/users/installing.html
