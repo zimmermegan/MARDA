@@ -1,6 +1,7 @@
 package main;
 
 import java.util.List;
+import java.util.Map;
 import java.util.Properties;
 
 import edu.stanford.nlp.dcoref.CorefChain;
