@@ -16,6 +16,10 @@ The project so far is designed to be a medical assistive robot directed primaril
 
 ##For Stanford NLP
 - Github Page is here: https://github.com/stanfordnlp/CoreNLP
-- Link to the core Jar File is here: http://nlp.stanford.edu/software/corenlp.shtml#Demo
+- Link to the core Jar File is here: http://search.maven.org/#browse%7C304784840
+- Jar File Name is: `stanford-corenlp-3.5.1.jar`
 - Documentation is found here: http://nlp.stanford.edu/software/corenlp.shtml
+- Build in Eclipse, import the project via Eclipse Git Manager, and add the External Jar File to your Build Path, in order to run the executable Driver File
+ 
+
 
