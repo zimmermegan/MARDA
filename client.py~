@@ -11,7 +11,7 @@ class StanfordNLP:
         return json.loads(self.server.parse(text))
 
 nlp = StanfordNLP()
-result = nlp.parse("Can you hand me a psuedophed?")
+result = nlp.parse("Hello world!  It is so beautiful.")
 pprint(result)
 
 from nltk.tree import Tree
