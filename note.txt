@@ -1,0 +1,3 @@
+to run this puppy
+- python corenlp.py (launches the server)
+- python client.py (makes a JSON post request to the server and performs actions)
