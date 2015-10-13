@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent": "MardaIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
